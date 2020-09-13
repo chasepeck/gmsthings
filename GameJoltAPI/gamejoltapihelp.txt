@@ -1,0 +1,1 @@
+Replace the URL in the "Create_0.gml" file with your request URL. Visit https://gamejolt.com/game-api to learn more, including how to create a request URL.
