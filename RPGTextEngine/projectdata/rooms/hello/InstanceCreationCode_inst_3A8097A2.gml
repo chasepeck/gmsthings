@@ -1,0 +1,1 @@
+text_engine_print("Hello! I am text.`Earthbound best game <3",1,x,y);
